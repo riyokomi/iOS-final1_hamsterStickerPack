@@ -1,0 +1,41 @@
+{
+  "stickers" : [
+    {
+      "filename" : "h1.sticker"
+    },
+    {
+      "filename" : "h2.sticker"
+    },
+    {
+      "filename" : "h3.sticker"
+    },
+    {
+      "filename" : "h4.sticker"
+    },
+    {
+      "filename" : "h5.sticker"
+    },
+    {
+      "filename" : "h6.sticker"
+    },
+    {
+      "filename" : "h7.sticker"
+    },
+    {
+      "filename" : "h8.sticker"
+    },
+    {
+      "filename" : "h9.sticker"
+    },
+    {
+      "filename" : "h10.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
